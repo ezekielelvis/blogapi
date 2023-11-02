@@ -2,4 +2,6 @@ uvicorn
 fastapi
 pydantic
 sqlalcemy
-passLib[bcrypt]
+passLib
+bcrypt
+python-jose
